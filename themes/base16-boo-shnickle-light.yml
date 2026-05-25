@@ -1,0 +1,34 @@
+#
+#
+# name: boo-shnickle-light
+# author: boo-shnickle (@boo_shnickle)
+# slug: boo-shnickle-light
+# slug-underscored: boo_shnickle_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#bfbfd9'
+      - bold
+    inactiveBorderColor:
+      - '#9c9c7d'
+    searchingActiveBorderColor:
+      - '#ffdc99'
+    optionsTextColor:
+      - '#bfbfd9'
+    selectedLineBgColor:
+      - '#bdbd97'
+    cherryPickedCommitBgColor:
+      - '#9c9c7d'
+    cherryPickedCommitFgColor:
+      - '#bfbfd9'
+    markedBaseCommitFgColor:
+      - '#bfbfd9'
+    unstagedChangesColor:
+      - '#ffbfa5'
+    defaultFgColor:
+      - '#5b5b49'

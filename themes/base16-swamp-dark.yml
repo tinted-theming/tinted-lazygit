@@ -1,0 +1,34 @@
+#
+#
+# name: Swamp Dark
+# author: Masroof Maindak (https://github.com/masroof-maindak)
+# slug: swamp-dark
+# slug-underscored: swamp_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c1666b'
+      - bold
+    inactiveBorderColor:
+      - '#5f4e41'
+    searchingActiveBorderColor:
+      - '#ebe0bb'
+    optionsTextColor:
+      - '#c1666b'
+    selectedLineBgColor:
+      - '#4d3f32'
+    cherryPickedCommitBgColor:
+      - '#5f4e41'
+    cherryPickedCommitFgColor:
+      - '#c1666b'
+    markedBaseCommitFgColor:
+      - '#c1666b'
+    unstagedChangesColor:
+      - '#db930d'
+    defaultFgColor:
+      - '#d2c3a4'

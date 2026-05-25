@@ -1,0 +1,34 @@
+#
+#
+# name: Kissa Latte
+# author: rwendell (https://github.com/rwendell/kissa)
+# slug: kissa-latte
+# slug-underscored: kissa_latte
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#3468a8'
+      - bold
+    inactiveBorderColor:
+      - '#91887d'
+    searchingActiveBorderColor:
+      - '#8f5d22'
+    optionsTextColor:
+      - '#3468a8'
+    selectedLineBgColor:
+      - '#d5d2cb'
+    cherryPickedCommitBgColor:
+      - '#91887d'
+    cherryPickedCommitFgColor:
+      - '#3468a8'
+    markedBaseCommitFgColor:
+      - '#3468a8'
+    unstagedChangesColor:
+      - '#9e3e3e'
+    defaultFgColor:
+      - '#1f1c16'

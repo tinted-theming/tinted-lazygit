@@ -1,0 +1,34 @@
+#
+#
+# name: Kissa Macchiato
+# author: rwendell (https://github.com/rwendell/kissa)
+# slug: kissa-macchiato
+# slug-underscored: kissa_macchiato
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7fa8d4'
+      - bold
+    inactiveBorderColor:
+      - '#b8a48c'
+    searchingActiveBorderColor:
+      - '#da9050'
+    optionsTextColor:
+      - '#7fa8d4'
+    selectedLineBgColor:
+      - '#47443f'
+    cherryPickedCommitBgColor:
+      - '#b8a48c'
+    cherryPickedCommitFgColor:
+      - '#7fa8d4'
+    markedBaseCommitFgColor:
+      - '#7fa8d4'
+    unstagedChangesColor:
+      - '#e87777'
+    defaultFgColor:
+      - '#faf0e6'

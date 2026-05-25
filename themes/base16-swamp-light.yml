@@ -1,0 +1,34 @@
+#
+#
+# name: Swamp Light
+# author: Masroof Maindak (https://github.com/masroof-maindak)
+# slug: swamp-light
+# slug-underscored: swamp_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#bf7979'
+      - bold
+    inactiveBorderColor:
+      - '#b5a492'
+    searchingActiveBorderColor:
+      - '#64513e'
+    optionsTextColor:
+      - '#bf7979'
+    selectedLineBgColor:
+      - '#c9b9a7'
+    cherryPickedCommitBgColor:
+      - '#b5a492'
+    cherryPickedCommitFgColor:
+      - '#bf7979'
+    markedBaseCommitFgColor:
+      - '#bf7979'
+    unstagedChangesColor:
+      - '#d09700'
+    defaultFgColor:
+      - '#64513e'
