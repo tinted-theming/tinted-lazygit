@@ -1,0 +1,34 @@
+#
+#
+# name: Mezcal
+# author: Teshre
+# slug: mezcal
+# slug-underscored: mezcal
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8aa6c0'
+      - bold
+    inactiveBorderColor:
+      - '#6e6450'
+    searchingActiveBorderColor:
+      - '#d9a441'
+    optionsTextColor:
+      - '#8aa6c0'
+    selectedLineBgColor:
+      - '#36301e'
+    cherryPickedCommitBgColor:
+      - '#6e6450'
+    cherryPickedCommitFgColor:
+      - '#8aa6c0'
+    markedBaseCommitFgColor:
+      - '#8aa6c0'
+    unstagedChangesColor:
+      - '#da6e54'
+    defaultFgColor:
+      - '#e0d8c8'

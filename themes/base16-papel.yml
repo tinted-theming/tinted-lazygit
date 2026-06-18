@@ -1,0 +1,34 @@
+#
+#
+# name: Papel
+# author: Teshre
+# slug: papel
+# slug-underscored: papel
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2c6ca0'
+      - bold
+    inactiveBorderColor:
+      - '#9a8c76'
+    searchingActiveBorderColor:
+      - '#c25c1f'
+    optionsTextColor:
+      - '#2c6ca0'
+    selectedLineBgColor:
+      - '#e0d0ac'
+    cherryPickedCommitBgColor:
+      - '#9a8c76'
+    cherryPickedCommitFgColor:
+      - '#2c6ca0'
+    markedBaseCommitFgColor:
+      - '#2c6ca0'
+    unstagedChangesColor:
+      - '#c0392b'
+    defaultFgColor:
+      - '#3a2e20'

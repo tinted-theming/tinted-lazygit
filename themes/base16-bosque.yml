@@ -1,0 +1,34 @@
+#
+#
+# name: Bosque
+# author: Teshre
+# slug: bosque
+# slug-underscored: bosque
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6dae9e'
+      - bold
+    inactiveBorderColor:
+      - '#5c6e5e'
+    searchingActiveBorderColor:
+      - '#7dc97a'
+    optionsTextColor:
+      - '#6dae9e'
+    selectedLineBgColor:
+      - '#1e3023'
+    cherryPickedCommitBgColor:
+      - '#5c6e5e'
+    cherryPickedCommitFgColor:
+      - '#6dae9e'
+    markedBaseCommitFgColor:
+      - '#6dae9e'
+    unstagedChangesColor:
+      - '#e2706a'
+    defaultFgColor:
+      - '#cfe5d2'

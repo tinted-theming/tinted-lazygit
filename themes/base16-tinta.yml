@@ -1,0 +1,34 @@
+#
+#
+# name: Tinta
+# author: Teshre
+# slug: tinta
+# slug-underscored: tinta
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8a9ab0'
+      - bold
+    inactiveBorderColor:
+      - '#62626a'
+    searchingActiveBorderColor:
+      - '#e8843a'
+    optionsTextColor:
+      - '#8a9ab0'
+    selectedLineBgColor:
+      - '#2c2c30'
+    cherryPickedCommitBgColor:
+      - '#62626a'
+    cherryPickedCommitFgColor:
+      - '#8a9ab0'
+    markedBaseCommitFgColor:
+      - '#8a9ab0'
+    unstagedChangesColor:
+      - '#d0726a'
+    defaultFgColor:
+      - '#d8d6d0'

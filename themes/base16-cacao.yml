@@ -1,0 +1,34 @@
+#
+#
+# name: Cacao
+# author: Teshre
+# slug: cacao
+# slug-underscored: cacao
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a89ad0'
+      - bold
+    inactiveBorderColor:
+      - '#766052'
+    searchingActiveBorderColor:
+      - '#c77b4a'
+    optionsTextColor:
+      - '#a89ad0'
+    selectedLineBgColor:
+      - '#3a281e'
+    cherryPickedCommitBgColor:
+      - '#766052'
+    cherryPickedCommitFgColor:
+      - '#a89ad0'
+    markedBaseCommitFgColor:
+      - '#a89ad0'
+    unstagedChangesColor:
+      - '#e0705c'
+    defaultFgColor:
+      - '#e8d6c4'

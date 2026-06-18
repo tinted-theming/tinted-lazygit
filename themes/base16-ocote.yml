@@ -1,0 +1,34 @@
+#
+#
+# name: Ocote
+# author: Teshre
+# slug: ocote
+# slug-underscored: ocote
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#82a6e0'
+      - bold
+    inactiveBorderColor:
+      - '#6b6253'
+    searchingActiveBorderColor:
+      - '#e8843a'
+    optionsTextColor:
+      - '#82a6e0'
+    selectedLineBgColor:
+      - '#3a2e1c'
+    cherryPickedCommitBgColor:
+      - '#6b6253'
+    cherryPickedCommitFgColor:
+      - '#82a6e0'
+    markedBaseCommitFgColor:
+      - '#82a6e0'
+    unstagedChangesColor:
+      - '#e8635a'
+    defaultFgColor:
+      - '#e7dcc6'

@@ -1,0 +1,34 @@
+#
+#
+# name: Noche
+# author: Teshre
+# slug: noche
+# slug-underscored: noche
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7aa0e8'
+      - bold
+    inactiveBorderColor:
+      - '#5a6178'
+    searchingActiveBorderColor:
+      - '#82a6e0'
+    optionsTextColor:
+      - '#7aa0e8'
+    selectedLineBgColor:
+      - '#232a40'
+    cherryPickedCommitBgColor:
+      - '#5a6178'
+    cherryPickedCommitFgColor:
+      - '#7aa0e8'
+    markedBaseCommitFgColor:
+      - '#7aa0e8'
+    unstagedChangesColor:
+      - '#e2727e'
+    defaultFgColor:
+      - '#cbd4ec'

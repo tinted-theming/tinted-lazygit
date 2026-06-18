@@ -1,0 +1,34 @@
+#
+#
+# name: Brasa
+# author: Teshre
+# slug: brasa
+# slug-underscored: brasa
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#9aa6e0'
+      - bold
+    inactiveBorderColor:
+      - '#7a6150'
+    searchingActiveBorderColor:
+      - '#ff7a4d'
+    optionsTextColor:
+      - '#9aa6e0'
+    selectedLineBgColor:
+      - '#45261a'
+    cherryPickedCommitBgColor:
+      - '#7a6150'
+    cherryPickedCommitFgColor:
+      - '#9aa6e0'
+    markedBaseCommitFgColor:
+      - '#9aa6e0'
+    unstagedChangesColor:
+      - '#f2685a'
+    defaultFgColor:
+      - '#f0d8c0'
