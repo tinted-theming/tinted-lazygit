@@ -1,9 +1,9 @@
 #
 #
-# name: Github
+# name: Github Light Colorblind
 # author: Tinted Theming (https://github.com/tinted-theming)
-# slug: github
-# slug-underscored: github
+# slug: github-light-colorblind
+# slug-underscored: github_light_colorblind
 # system: base16
 # variant: light
 #
@@ -29,6 +29,6 @@ gui:
     markedBaseCommitFgColor:
       - '#8250df'
     unstagedChangesColor:
-      - '#953800'
+      - '#8a4600'
     defaultFgColor:
       - '#424a53'

@@ -1,9 +1,9 @@
 #
 #
-# name: Github
+# name: Github Light High Contrast
 # author: Tinted Theming (https://github.com/tinted-theming)
-# slug: github
-# slug-underscored: github
+# slug: github-light-high-contrast
+# slug-underscored: github_light_high_contrast
 # system: base16
 # variant: light
 #
@@ -12,23 +12,23 @@
 gui:
   theme:
     activeBorderColor:
-      - '#8250df'
+      - '#622cbc'
       - bold
     inactiveBorderColor:
-      - '#8c959f'
+      - '#88929d'
     searchingActiveBorderColor:
-      - '#0550ae'
+      - '#023b95'
     optionsTextColor:
-      - '#8250df'
+      - '#622cbc'
     selectedLineBgColor:
-      - '#afb8c1'
+      - '#acb6c0'
     cherryPickedCommitBgColor:
-      - '#8c959f'
+      - '#88929d'
     cherryPickedCommitFgColor:
-      - '#8250df'
+      - '#622cbc'
     markedBaseCommitFgColor:
-      - '#8250df'
+      - '#622cbc'
     unstagedChangesColor:
-      - '#953800'
+      - '#702c00'
     defaultFgColor:
-      - '#424a53'
+      - '#343b43'
