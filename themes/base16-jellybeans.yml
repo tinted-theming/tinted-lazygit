@@ -1,0 +1,34 @@
+#
+#
+# name: Jellybeans
+# author: FredHappyface (https://github.com/fredHappyface), converted to Base16 by https://github.com/nonetrix
+# slug: jellybeans
+# slug-underscored: jellybeans
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b1d8f6'
+      - bold
+    inactiveBorderColor:
+      - '#c5c5c5'
+    searchingActiveBorderColor:
+      - '#ffba7b'
+    optionsTextColor:
+      - '#b1d8f6'
+    selectedLineBgColor:
+      - '#bdbdbd'
+    cherryPickedCommitBgColor:
+      - '#c5c5c5'
+    cherryPickedCommitFgColor:
+      - '#b1d8f6'
+    markedBaseCommitFgColor:
+      - '#b1d8f6'
+    unstagedChangesColor:
+      - '#ffa1a1'
+    defaultFgColor:
+      - '#d5d5d5'
