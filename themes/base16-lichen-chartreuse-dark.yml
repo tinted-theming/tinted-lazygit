@@ -1,0 +1,34 @@
+#
+#
+# name: Lichen Chartreuse Dark
+# author: Aaron Colichia (https://aaron.colichia.org/)
+# slug: lichen-chartreuse-dark
+# slug-underscored: lichen_chartreuse_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#78adc4'
+      - bold
+    inactiveBorderColor:
+      - '#899282'
+    searchingActiveBorderColor:
+      - '#d5ad73'
+    optionsTextColor:
+      - '#78adc4'
+    selectedLineBgColor:
+      - '#3e5123'
+    cherryPickedCommitBgColor:
+      - '#899282'
+    cherryPickedCommitFgColor:
+      - '#78adc4'
+    markedBaseCommitFgColor:
+      - '#78adc4'
+    unstagedChangesColor:
+      - '#e28b82'
+    defaultFgColor:
+      - '#e0e5da'

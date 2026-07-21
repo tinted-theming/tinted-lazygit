@@ -1,0 +1,34 @@
+#
+#
+# name: Cerulean Signal Light
+# author: Aaron Colichia (https://aaron.colichia.org/)
+# slug: cerulean-signal-light
+# slug-underscored: cerulean_signal_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#006fa8'
+      - bold
+    inactiveBorderColor:
+      - '#637287'
+    searchingActiveBorderColor:
+      - '#9a4f00'
+    optionsTextColor:
+      - '#006fa8'
+    selectedLineBgColor:
+      - '#dde7f1'
+    cherryPickedCommitBgColor:
+      - '#637287'
+    cherryPickedCommitFgColor:
+      - '#006fa8'
+    markedBaseCommitFgColor:
+      - '#006fa8'
+    unstagedChangesColor:
+      - '#b4233d'
+    defaultFgColor:
+      - '#232b38'

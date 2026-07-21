@@ -1,0 +1,34 @@
+#
+#
+# name: Gruvbox Dark Medium (Forest)
+# author: Muhammad Talha (muhammadtalha.quant@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+# slug: gruvbox-dark-medium-forest
+# slug-underscored: gruvbox_dark_medium_forest
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b8bb26'
+      - bold
+    inactiveBorderColor:
+      - '#665c50'
+    searchingActiveBorderColor:
+      - '#fe8019'
+    optionsTextColor:
+      - '#b8bb26'
+    selectedLineBgColor:
+      - '#504945'
+    cherryPickedCommitBgColor:
+      - '#665c50'
+    cherryPickedCommitFgColor:
+      - '#b8bb26'
+    markedBaseCommitFgColor:
+      - '#b8bb26'
+    unstagedChangesColor:
+      - '#fb4934'
+    defaultFgColor:
+      - '#d5c4a1'

@@ -1,0 +1,34 @@
+#
+#
+# name: Lichen Chartreuse Light
+# author: Aaron Colichia (https://aaron.colichia.org/)
+# slug: lichen-chartreuse-light
+# slug-underscored: lichen_chartreuse_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#356e8a'
+      - bold
+    inactiveBorderColor:
+      - '#687161'
+    searchingActiveBorderColor:
+      - '#8b5d27'
+    optionsTextColor:
+      - '#356e8a'
+    selectedLineBgColor:
+      - '#cfe4ae'
+    cherryPickedCommitBgColor:
+      - '#687161'
+    cherryPickedCommitFgColor:
+      - '#356e8a'
+    markedBaseCommitFgColor:
+      - '#356e8a'
+    unstagedChangesColor:
+      - '#a34740'
+    defaultFgColor:
+      - '#2d302b'

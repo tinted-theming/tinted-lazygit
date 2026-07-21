@@ -1,0 +1,34 @@
+#
+#
+# name: Cerulean Signal Dark
+# author: Aaron Colichia (https://aaron.colichia.org/)
+# slug: cerulean-signal-dark
+# slug-underscored: cerulean_signal_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7dd3ff'
+      - bold
+    inactiveBorderColor:
+      - '#8fa0b5'
+    searchingActiveBorderColor:
+      - '#f5a35c'
+    optionsTextColor:
+      - '#7dd3ff'
+    selectedLineBgColor:
+      - '#173a5a'
+    cherryPickedCommitBgColor:
+      - '#8fa0b5'
+    cherryPickedCommitFgColor:
+      - '#7dd3ff'
+    markedBaseCommitFgColor:
+      - '#7dd3ff'
+    unstagedChangesColor:
+      - '#ff8a9a'
+    defaultFgColor:
+      - '#dce6f2'
