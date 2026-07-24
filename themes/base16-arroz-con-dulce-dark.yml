@@ -1,0 +1,34 @@
+#
+#
+# name: Arroz con Dulce Dark
+# author: Richard Martinez
+# slug: arroz-con-dulce-dark
+# slug-underscored: arroz_con_dulce_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b99ac8'
+      - bold
+    inactiveBorderColor:
+      - '#a98568'
+    searchingActiveBorderColor:
+      - '#e68a4a'
+    optionsTextColor:
+      - '#b99ac8'
+    selectedLineBgColor:
+      - '#3b241a'
+    cherryPickedCommitBgColor:
+      - '#a98568'
+    cherryPickedCommitFgColor:
+      - '#b99ac8'
+    markedBaseCommitFgColor:
+      - '#b99ac8'
+    unstagedChangesColor:
+      - '#e07a8a'
+    defaultFgColor:
+      - '#f2dfc0'
