@@ -1,0 +1,34 @@
+#
+#
+# name: Neovim Dark
+# author: https://github.com/neovim/neovim/blob/master/src/nvim/highlight_group.c
+# slug: neovim-dark
+# slug-underscored: neovim_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a6dbff'
+      - bold
+    inactiveBorderColor:
+      - '#9b9ea4'
+    searchingActiveBorderColor:
+      - '#ffa500'
+    optionsTextColor:
+      - '#a6dbff'
+    selectedLineBgColor:
+      - '#4f5258'
+    cherryPickedCommitBgColor:
+      - '#9b9ea4'
+    cherryPickedCommitFgColor:
+      - '#a6dbff'
+    markedBaseCommitFgColor:
+      - '#a6dbff'
+    unstagedChangesColor:
+      - '#ffc0b9'
+    defaultFgColor:
+      - '#e0e2ea'
