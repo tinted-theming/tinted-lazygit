@@ -1,0 +1,34 @@
+#
+#
+# name: Pastelón de Amarillos Dark
+# author: Richard Martinez (https://sonofmartinus.com)
+# slug: pastelon-de-amarillos-dark
+# slug-underscored: pastelon_de_amarillos_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5a9fe6'
+      - bold
+    inactiveBorderColor:
+      - '#a0747c'
+    searchingActiveBorderColor:
+      - '#f99a32'
+    optionsTextColor:
+      - '#5a9fe6'
+    selectedLineBgColor:
+      - '#432031'
+    cherryPickedCommitBgColor:
+      - '#a0747c'
+    cherryPickedCommitFgColor:
+      - '#5a9fe6'
+    markedBaseCommitFgColor:
+      - '#5a9fe6'
+    unstagedChangesColor:
+      - '#ff646a'
+    defaultFgColor:
+      - '#ffe0a3'
