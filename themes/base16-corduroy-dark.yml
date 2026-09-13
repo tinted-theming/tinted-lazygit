@@ -1,9 +1,9 @@
 #
 #
-# name: Apprentice
-# author: Romain Lafourcade (https://github.com/romainl)
-# slug: apprentice
-# slug-underscored: apprentice
+# name: Corduroy Dark
+# author: taysatte (https://github.com/taysatte)
+# slug: corduroy-dark
+# slug-underscored: corduroy_dark
 # system: base16
 # variant: dark
 #
@@ -12,23 +12,23 @@
 gui:
   theme:
     activeBorderColor:
-      - '#5f87af'
+      - '#dc92a3'
       - bold
     inactiveBorderColor:
-      - '#444444'
+      - '#7d7082'
     searchingActiveBorderColor:
-      - '#ff8700'
+      - '#f0a89b'
     optionsTextColor:
-      - '#5f87af'
+      - '#dc92a3'
     selectedLineBgColor:
-      - '#3a3a3a'
+      - '#221a26'
     cherryPickedCommitBgColor:
-      - '#444444'
+      - '#7d7082'
     cherryPickedCommitFgColor:
-      - '#5f87af'
+      - '#dc92a3'
     markedBaseCommitFgColor:
-      - '#5f87af'
+      - '#dc92a3'
     unstagedChangesColor:
-      - '#af5f5f'
+      - '#e8758a'
     defaultFgColor:
-      - '#bcbcbc'
+      - '#ddd8df'
