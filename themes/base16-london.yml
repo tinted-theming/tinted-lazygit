@@ -1,0 +1,34 @@
+#
+#
+# name: London
+# author: xscriptor (https://github.com/xscriptor)
+# slug: london
+# slug-underscored: london
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#666666'
+      - bold
+    inactiveBorderColor:
+      - '#333333'
+    searchingActiveBorderColor:
+      - '#444444'
+    optionsTextColor:
+      - '#666666'
+    selectedLineBgColor:
+      - '#e7e7e7'
+    cherryPickedCommitBgColor:
+      - '#333333'
+    cherryPickedCommitFgColor:
+      - '#666666'
+    markedBaseCommitFgColor:
+      - '#666666'
+    unstagedChangesColor:
+      - '#333333'
+    defaultFgColor:
+      - '#333333'

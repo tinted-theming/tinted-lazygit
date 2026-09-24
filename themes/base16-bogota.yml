@@ -1,0 +1,34 @@
+#
+#
+# name: Bogota
+# author: xscriptor (https://github.com/xscriptor)
+# slug: bogota
+# slug-underscored: bogota
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#47e6ff'
+      - bold
+    inactiveBorderColor:
+      - '#525053'
+    searchingActiveBorderColor:
+      - '#fea78b'
+    optionsTextColor:
+      - '#47e6ff'
+    selectedLineBgColor:
+      - '#3a2727'
+    cherryPickedCommitBgColor:
+      - '#525053'
+    cherryPickedCommitFgColor:
+      - '#47e6ff'
+    markedBaseCommitFgColor:
+      - '#47e6ff'
+    unstagedChangesColor:
+      - '#fc618d'
+    defaultFgColor:
+      - '#f7f1ff'

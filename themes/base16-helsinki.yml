@@ -1,0 +1,34 @@
+#
+#
+# name: Helsinki
+# author: xscriptor (https://github.com/xscriptor)
+# slug: helsinki
+# slug-underscored: helsinki
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b55a0f'
+      - bold
+    inactiveBorderColor:
+      - '#b0a999'
+    searchingActiveBorderColor:
+      - '#268da6'
+    optionsTextColor:
+      - '#b55a0f'
+    selectedLineBgColor:
+      - '#e4e5e7'
+    cherryPickedCommitBgColor:
+      - '#b0a999'
+    cherryPickedCommitFgColor:
+      - '#b55a0f'
+    markedBaseCommitFgColor:
+      - '#b55a0f'
+    unstagedChangesColor:
+      - '#1faa9e'
+    defaultFgColor:
+      - '#544d40'

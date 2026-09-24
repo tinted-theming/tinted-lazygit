@@ -1,0 +1,34 @@
+#
+#
+# name: Praha
+# author: xscriptor (https://github.com/xscriptor)
+# slug: praha
+# slug-underscored: praha
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#bd93f9'
+      - bold
+    inactiveBorderColor:
+      - '#6272a4'
+    searchingActiveBorderColor:
+      - '#ff9c7c'
+    optionsTextColor:
+      - '#bd93f9'
+    selectedLineBgColor:
+      - '#353535'
+    cherryPickedCommitBgColor:
+      - '#6272a4'
+    cherryPickedCommitFgColor:
+      - '#bd93f9'
+    markedBaseCommitFgColor:
+      - '#bd93f9'
+    unstagedChangesColor:
+      - '#ff5555'
+    defaultFgColor:
+      - '#ffffff'

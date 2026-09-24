@@ -1,0 +1,34 @@
+#
+#
+# name: Miami
+# author: xscriptor (https://github.com/xscriptor)
+# slug: miami
+# slug-underscored: miami
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#00ffa8'
+      - bold
+    inactiveBorderColor:
+      - '#69676c'
+    searchingActiveBorderColor:
+      - '#ff926c'
+    optionsTextColor:
+      - '#00ffa8'
+    selectedLineBgColor:
+      - '#1e1d1f'
+    cherryPickedCommitBgColor:
+      - '#69676c'
+    cherryPickedCommitFgColor:
+      - '#00ffa8'
+    markedBaseCommitFgColor:
+      - '#00ffa8'
+    unstagedChangesColor:
+      - '#ff4c8b'
+    defaultFgColor:
+      - '#f7f1ff'

@@ -1,0 +1,34 @@
+#
+#
+# name: Tokio
+# author: xscriptor (https://github.com/xscriptor)
+# slug: tokio
+# slug-underscored: tokio
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#fd9353'
+      - bold
+    inactiveBorderColor:
+      - '#78757c'
+    searchingActiveBorderColor:
+      - '#fca37a'
+    optionsTextColor:
+      - '#fd9353'
+    selectedLineBgColor:
+      - '#363638'
+    cherryPickedCommitBgColor:
+      - '#78757c'
+    cherryPickedCommitFgColor:
+      - '#fd9353'
+    markedBaseCommitFgColor:
+      - '#fd9353'
+    unstagedChangesColor:
+      - '#fc618d'
+    defaultFgColor:
+      - '#f7f1ff'

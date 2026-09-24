@@ -1,0 +1,34 @@
+#
+#
+# name: Madrid
+# author: xscriptor (https://github.com/xscriptor)
+# slug: madrid
+# slug-underscored: madrid
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#007a9e'
+      - bold
+    inactiveBorderColor:
+      - '#4d4d4d'
+    searchingActiveBorderColor:
+      - '#923217'
+    optionsTextColor:
+      - '#007a9e'
+    selectedLineBgColor:
+      - '#dfdfdf'
+    cherryPickedCommitBgColor:
+      - '#4d4d4d'
+    cherryPickedCommitFgColor:
+      - '#007a9e'
+    markedBaseCommitFgColor:
+      - '#007a9e'
+    unstagedChangesColor:
+      - '#990026'
+    defaultFgColor:
+      - '#1a1a1a'

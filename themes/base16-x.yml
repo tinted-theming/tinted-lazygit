@@ -1,0 +1,34 @@
+#
+#
+# name: X
+# author: xscriptor (https://github.com/xscriptor)
+# slug: x
+# slug-underscored: x
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#fd9353'
+      - bold
+    inactiveBorderColor:
+      - '#6b686e'
+    searchingActiveBorderColor:
+      - '#fca37a'
+    optionsTextColor:
+      - '#fd9353'
+    selectedLineBgColor:
+      - '#222123'
+    cherryPickedCommitBgColor:
+      - '#6b686e'
+    cherryPickedCommitFgColor:
+      - '#fd9353'
+    markedBaseCommitFgColor:
+      - '#fd9353'
+    unstagedChangesColor:
+      - '#fc618d'
+    defaultFgColor:
+      - '#f7f1ff'

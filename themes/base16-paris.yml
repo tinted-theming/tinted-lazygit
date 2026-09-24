@@ -1,0 +1,34 @@
+#
+#
+# name: Paris
+# author: xscriptor (https://github.com/xscriptor)
+# slug: paris
+# slug-underscored: paris
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a3f3ff'
+      - bold
+    inactiveBorderColor:
+      - '#c4bdff'
+    searchingActiveBorderColor:
+      - '#fca37a'
+    optionsTextColor:
+      - '#a3f3ff'
+    selectedLineBgColor:
+      - '#352649'
+    cherryPickedCommitBgColor:
+      - '#c4bdff'
+    cherryPickedCommitFgColor:
+      - '#a3f3ff'
+    markedBaseCommitFgColor:
+      - '#a3f3ff'
+    unstagedChangesColor:
+      - '#fc618d'
+    defaultFgColor:
+      - '#f7f1ff'

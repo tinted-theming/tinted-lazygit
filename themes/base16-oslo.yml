@@ -1,0 +1,34 @@
+#
+#
+# name: Oslo
+# author: xscriptor (https://github.com/xscriptor)
+# slug: oslo
+# slug-underscored: oslo
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#4aa5f0'
+      - bold
+    inactiveBorderColor:
+      - '#6c727f'
+    searchingActiveBorderColor:
+      - '#d8725a'
+    optionsTextColor:
+      - '#4aa5f0'
+    selectedLineBgColor:
+      - '#4c515e'
+    cherryPickedCommitBgColor:
+      - '#6c727f'
+    cherryPickedCommitFgColor:
+      - '#4aa5f0'
+    markedBaseCommitFgColor:
+      - '#4aa5f0'
+    unstagedChangesColor:
+      - '#e05561'
+    defaultFgColor:
+      - '#abb2bf'

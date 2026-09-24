@@ -1,0 +1,34 @@
+#
+#
+# name: Lahabana
+# author: xscriptor (https://github.com/xscriptor)
+# slug: lahabana
+# slug-underscored: lahabana
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#fd9353'
+      - bold
+    inactiveBorderColor:
+      - '#76747a'
+    searchingActiveBorderColor:
+      - '#f0b095'
+    optionsTextColor:
+      - '#fd9353'
+    selectedLineBgColor:
+      - '#343335'
+    cherryPickedCommitBgColor:
+      - '#76747a'
+    cherryPickedCommitFgColor:
+      - '#fd9353'
+    markedBaseCommitFgColor:
+      - '#fd9353'
+    unstagedChangesColor:
+      - '#fc618d'
+    defaultFgColor:
+      - '#f7f1ff'
