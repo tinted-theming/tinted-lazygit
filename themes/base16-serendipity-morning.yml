@@ -1,0 +1,34 @@
+#
+#
+# name: Serendipity Morning
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: serendipity-morning
+# slug-underscored: serendipity_morning
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#6288d8'
+      - bold
+    inactiveBorderColor:
+      - '#6d7296'
+    searchingActiveBorderColor:
+      - '#c25a4d'
+    optionsTextColor:
+      - '#6288d8'
+    selectedLineBgColor:
+      - '#eaebee'
+    cherryPickedCommitBgColor:
+      - '#6d7296'
+    cherryPickedCommitFgColor:
+      - '#6288d8'
+    markedBaseCommitFgColor:
+      - '#6288d8'
+    unstagedChangesColor:
+      - '#c25a4d'
+    defaultFgColor:
+      - '#3f4363'

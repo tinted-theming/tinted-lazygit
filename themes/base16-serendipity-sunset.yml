@@ -1,0 +1,34 @@
+#
+#
+# name: Serendipity Sunset
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: serendipity-sunset
+# slug-underscored: serendipity_sunset
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a0b6e8'
+      - bold
+    inactiveBorderColor:
+      - '#8d8f9e'
+    searchingActiveBorderColor:
+      - '#d1918f'
+    optionsTextColor:
+      - '#a0b6e8'
+    selectedLineBgColor:
+      - '#272938'
+    cherryPickedCommitBgColor:
+      - '#8d8f9e'
+    cherryPickedCommitFgColor:
+      - '#a0b6e8'
+    markedBaseCommitFgColor:
+      - '#a0b6e8'
+    unstagedChangesColor:
+      - '#d1918f'
+    defaultFgColor:
+      - '#dee0ef'

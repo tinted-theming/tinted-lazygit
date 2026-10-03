@@ -1,0 +1,34 @@
+#
+#
+# name: Serendipity Midnight
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: serendipity-midnight
+# slug-underscored: serendipity_midnight
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#94b8ff'
+      - bold
+    inactiveBorderColor:
+      - '#6b6d7c'
+    searchingActiveBorderColor:
+      - '#ee8679'
+    optionsTextColor:
+      - '#94b8ff'
+    selectedLineBgColor:
+      - '#1c1e2d'
+    cherryPickedCommitBgColor:
+      - '#6b6d7c'
+    cherryPickedCommitFgColor:
+      - '#94b8ff'
+    markedBaseCommitFgColor:
+      - '#94b8ff'
+    unstagedChangesColor:
+      - '#ee8679'
+    defaultFgColor:
+      - '#dee0ef'

@@ -1,0 +1,34 @@
+#
+#
+# name: Sequoia Moonlight Dark
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: sequoia-moonlight-dark
+# slug-underscored: sequoia_moonlight_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c58fff'
+      - bold
+    inactiveBorderColor:
+      - '#43444d'
+    searchingActiveBorderColor:
+      - '#f58ee0'
+    optionsTextColor:
+      - '#c58fff'
+    selectedLineBgColor:
+      - '#111216'
+    cherryPickedCommitBgColor:
+      - '#43444d'
+    cherryPickedCommitFgColor:
+      - '#c58fff'
+    markedBaseCommitFgColor:
+      - '#c58fff'
+    unstagedChangesColor:
+      - '#f58ee0'
+    defaultFgColor:
+      - '#868690'

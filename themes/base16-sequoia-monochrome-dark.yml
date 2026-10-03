@@ -1,0 +1,34 @@
+#
+#
+# name: Sequoia Monochrome Dark
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: sequoia-monochrome-dark
+# slug-underscored: sequoia_monochrome_dark
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#7c829d'
+      - bold
+    inactiveBorderColor:
+      - '#43444d'
+    searchingActiveBorderColor:
+      - '#999eb2'
+    optionsTextColor:
+      - '#7c829d'
+    selectedLineBgColor:
+      - '#111216'
+    cherryPickedCommitBgColor:
+      - '#43444d'
+    cherryPickedCommitFgColor:
+      - '#7c829d'
+    markedBaseCommitFgColor:
+      - '#7c829d'
+    unstagedChangesColor:
+      - '#999eb2'
+    defaultFgColor:
+      - '#868690'

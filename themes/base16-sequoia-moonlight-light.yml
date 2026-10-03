@@ -1,0 +1,34 @@
+#
+#
+# name: Sequoia Moonlight Light
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: sequoia-moonlight-light
+# slug-underscored: sequoia_moonlight_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#9a5fd9'
+      - bold
+    inactiveBorderColor:
+      - '#565760'
+    searchingActiveBorderColor:
+      - '#c94da8'
+    optionsTextColor:
+      - '#9a5fd9'
+    selectedLineBgColor:
+      - '#e2e3e8'
+    cherryPickedCommitBgColor:
+      - '#565760'
+    cherryPickedCommitFgColor:
+      - '#9a5fd9'
+    markedBaseCommitFgColor:
+      - '#9a5fd9'
+    unstagedChangesColor:
+      - '#c94da8'
+    defaultFgColor:
+      - '#282930'

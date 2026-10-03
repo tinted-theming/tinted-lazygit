@@ -1,0 +1,34 @@
+#
+#
+# name: Sequoia Monochrome Light
+# author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# slug: sequoia-monochrome-light
+# slug-underscored: sequoia_monochrome_light
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5f6370'
+      - bold
+    inactiveBorderColor:
+      - '#9da2ad'
+    searchingActiveBorderColor:
+      - '#525666'
+    optionsTextColor:
+      - '#5f6370'
+    selectedLineBgColor:
+      - '#e2e3e8'
+    cherryPickedCommitBgColor:
+      - '#9da2ad'
+    cherryPickedCommitFgColor:
+      - '#5f6370'
+    markedBaseCommitFgColor:
+      - '#5f6370'
+    unstagedChangesColor:
+      - '#525666'
+    defaultFgColor:
+      - '#282930'
