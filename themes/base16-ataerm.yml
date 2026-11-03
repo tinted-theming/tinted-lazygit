@@ -1,0 +1,34 @@
+#
+#
+# name: Aftertaerm
+# author: Radek Polasek (https://github.com/radekp31), based on Taerminal by cozywigwam
+# slug: ataerm
+# slug-underscored: ataerm
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#8bbce5'
+      - bold
+    inactiveBorderColor:
+      - '#6f6f6f'
+    searchingActiveBorderColor:
+      - '#ffb88a'
+    optionsTextColor:
+      - '#8bbce5'
+    selectedLineBgColor:
+      - '#3c3e41'
+    cherryPickedCommitBgColor:
+      - '#6f6f6f'
+    cherryPickedCommitFgColor:
+      - '#8bbce5'
+    markedBaseCommitFgColor:
+      - '#8bbce5'
+    unstagedChangesColor:
+      - '#ff8878'
+    defaultFgColor:
+      - '#f0f0f0'
