@@ -1,0 +1,34 @@
+#
+#
+# name: dayfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: dayfox
+# slug-underscored: dayfox
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#2848a9'
+      - bold
+    inactiveBorderColor:
+      - '#534c45'
+    searchingActiveBorderColor:
+      - '#955f61'
+    optionsTextColor:
+      - '#2848a9'
+    selectedLineBgColor:
+      - '#d3c7bb'
+    cherryPickedCommitBgColor:
+      - '#534c45'
+    cherryPickedCommitFgColor:
+      - '#2848a9'
+    markedBaseCommitFgColor:
+      - '#2848a9'
+    unstagedChangesColor:
+      - '#a5222f'
+    defaultFgColor:
+      - '#3d2b5a'

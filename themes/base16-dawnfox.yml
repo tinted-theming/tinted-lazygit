@@ -1,0 +1,34 @@
+#
+#
+# name: dawnfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: dawnfox
+# slug-underscored: dawnfox
+# system: base16
+# variant: light
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#286983'
+      - bold
+    inactiveBorderColor:
+      - '#5f5695'
+    searchingActiveBorderColor:
+      - '#d7827e'
+    optionsTextColor:
+      - '#286983'
+    selectedLineBgColor:
+      - '#ebdfe4'
+    cherryPickedCommitBgColor:
+      - '#5f5695'
+    cherryPickedCommitFgColor:
+      - '#286983'
+    markedBaseCommitFgColor:
+      - '#286983'
+    unstagedChangesColor:
+      - '#b4637a'
+    defaultFgColor:
+      - '#575279'

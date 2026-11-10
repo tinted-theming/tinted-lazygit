@@ -1,0 +1,34 @@
+#
+#
+# name: nordfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: nordfox
+# slug-underscored: nordfox
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#81a1c1'
+      - bold
+    inactiveBorderColor:
+      - '#465780'
+    searchingActiveBorderColor:
+      - '#c9826b'
+    optionsTextColor:
+      - '#81a1c1'
+    selectedLineBgColor:
+      - '#444c5e'
+    cherryPickedCommitBgColor:
+      - '#465780'
+    cherryPickedCommitFgColor:
+      - '#81a1c1'
+    markedBaseCommitFgColor:
+      - '#81a1c1'
+    unstagedChangesColor:
+      - '#bf616a'
+    defaultFgColor:
+      - '#cdcecf'

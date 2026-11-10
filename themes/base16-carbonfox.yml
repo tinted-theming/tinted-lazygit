@@ -1,0 +1,34 @@
+#
+#
+# name: carbonfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: carbonfox
+# slug-underscored: carbonfox
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#78a9ff'
+      - bold
+    inactiveBorderColor:
+      - '#484848'
+    searchingActiveBorderColor:
+      - '#3ddbd9'
+    optionsTextColor:
+      - '#78a9ff'
+    selectedLineBgColor:
+      - '#353535'
+    cherryPickedCommitBgColor:
+      - '#484848'
+    cherryPickedCommitFgColor:
+      - '#78a9ff'
+    markedBaseCommitFgColor:
+      - '#78a9ff'
+    unstagedChangesColor:
+      - '#ee5396'
+    defaultFgColor:
+      - '#f2f4f8'

@@ -1,0 +1,34 @@
+#
+#
+# name: nightfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: nightfox
+# slug-underscored: nightfox
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#719cd6'
+      - bold
+    inactiveBorderColor:
+      - '#575860'
+    searchingActiveBorderColor:
+      - '#f4a261'
+    optionsTextColor:
+      - '#719cd6'
+    selectedLineBgColor:
+      - '#29394f'
+    cherryPickedCommitBgColor:
+      - '#575860'
+    cherryPickedCommitFgColor:
+      - '#719cd6'
+    markedBaseCommitFgColor:
+      - '#719cd6'
+    unstagedChangesColor:
+      - '#c94f6d'
+    defaultFgColor:
+      - '#cdcecf'

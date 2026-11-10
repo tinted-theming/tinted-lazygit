@@ -1,0 +1,34 @@
+#
+#
+# name: duskfox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: duskfox
+# slug-underscored: duskfox
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#569fba'
+      - bold
+    inactiveBorderColor:
+      - '#47407d'
+    searchingActiveBorderColor:
+      - '#ea9a97'
+    optionsTextColor:
+      - '#569fba'
+    selectedLineBgColor:
+      - '#373354'
+    cherryPickedCommitBgColor:
+      - '#47407d'
+    cherryPickedCommitFgColor:
+      - '#569fba'
+    markedBaseCommitFgColor:
+      - '#569fba'
+    unstagedChangesColor:
+      - '#eb6f92'
+    defaultFgColor:
+      - '#e0def4'

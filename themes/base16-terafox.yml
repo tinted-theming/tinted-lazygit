@@ -1,0 +1,34 @@
+#
+#
+# name: terafox
+# author: EdenEast (https://github.com/EdenEast)
+# slug: terafox
+# slug-underscored: terafox
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#5a93aa'
+      - bold
+    inactiveBorderColor:
+      - '#4e5157'
+    searchingActiveBorderColor:
+      - '#ff8349'
+    optionsTextColor:
+      - '#5a93aa'
+    selectedLineBgColor:
+      - '#254147'
+    cherryPickedCommitBgColor:
+      - '#4e5157'
+    cherryPickedCommitFgColor:
+      - '#5a93aa'
+    markedBaseCommitFgColor:
+      - '#5a93aa'
+    unstagedChangesColor:
+      - '#e85c51'
+    defaultFgColor:
+      - '#e6eaea'
