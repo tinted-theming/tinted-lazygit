@@ -1,0 +1,34 @@
+#
+#
+# name: Stranger Theme Starcourt
+# author: Stranger Theme (https://github.com/stranger-theme/stranger-theme)
+# slug: stranger-theme-starcourt
+# slug-underscored: stranger_theme_starcourt
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#ba55d3'
+      - bold
+    inactiveBorderColor:
+      - '#8c77c3'
+    searchingActiveBorderColor:
+      - '#ffb347'
+    optionsTextColor:
+      - '#ba55d3'
+    selectedLineBgColor:
+      - '#3d3d66'
+    cherryPickedCommitBgColor:
+      - '#8c77c3'
+    cherryPickedCommitFgColor:
+      - '#ba55d3'
+    markedBaseCommitFgColor:
+      - '#ba55d3'
+    unstagedChangesColor:
+      - '#ff6b6b'
+    defaultFgColor:
+      - '#eaeaea'

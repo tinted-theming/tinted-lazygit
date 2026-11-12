@@ -1,0 +1,34 @@
+#
+#
+# name: Stranger Theme Upside Down
+# author: Stranger Theme (https://github.com/stranger-theme/stranger-theme)
+# slug: stranger-theme-upside-down
+# slug-underscored: stranger_theme_upside_down
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#61afef'
+      - bold
+    inactiveBorderColor:
+      - '#7a8495'
+    searchingActiveBorderColor:
+      - '#d19a66'
+    optionsTextColor:
+      - '#61afef'
+    selectedLineBgColor:
+      - '#2a3c4a'
+    cherryPickedCommitBgColor:
+      - '#7a8495'
+    cherryPickedCommitFgColor:
+      - '#61afef'
+    markedBaseCommitFgColor:
+      - '#61afef'
+    unstagedChangesColor:
+      - '#e06c75'
+    defaultFgColor:
+      - '#f8f8f2'

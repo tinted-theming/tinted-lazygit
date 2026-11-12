@@ -1,0 +1,34 @@
+#
+#
+# name: Stranger Theme The Lab
+# author: Stranger Theme (https://github.com/stranger-theme/stranger-theme)
+# slug: stranger-theme-the-lab
+# slug-underscored: stranger_theme_the_lab
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b10dc9'
+      - bold
+    inactiveBorderColor:
+      - '#73879c'
+    searchingActiveBorderColor:
+      - '#ff851b'
+    optionsTextColor:
+      - '#b10dc9'
+    selectedLineBgColor:
+      - '#3c3f48'
+    cherryPickedCommitBgColor:
+      - '#73879c'
+    cherryPickedCommitFgColor:
+      - '#b10dc9'
+    markedBaseCommitFgColor:
+      - '#b10dc9'
+    unstagedChangesColor:
+      - '#ff4136'
+    defaultFgColor:
+      - '#e0e5ec'

@@ -1,0 +1,34 @@
+#
+#
+# name: Stranger Theme Hawkins
+# author: Stranger Theme (https://github.com/stranger-theme/stranger-theme)
+# slug: stranger-theme-hawkins
+# slug-underscored: stranger_theme_hawkins
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#b48ead'
+      - bold
+    inactiveBorderColor:
+      - '#9e8766'
+    searchingActiveBorderColor:
+      - '#d08770'
+    optionsTextColor:
+      - '#b48ead'
+    selectedLineBgColor:
+      - '#4d4339'
+    cherryPickedCommitBgColor:
+      - '#9e8766'
+    cherryPickedCommitFgColor:
+      - '#b48ead'
+    markedBaseCommitFgColor:
+      - '#b48ead'
+    unstagedChangesColor:
+      - '#bf616a'
+    defaultFgColor:
+      - '#e8dcc8'

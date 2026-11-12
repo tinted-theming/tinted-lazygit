@@ -1,0 +1,34 @@
+#
+#
+# name: Stranger Theme Dimension X
+# author: Stranger Theme (https://github.com/stranger-theme/stranger-theme)
+# slug: stranger-theme-dimension-x
+# slug-underscored: stranger_theme_dimension_x
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#c678dd'
+      - bold
+    inactiveBorderColor:
+      - '#9a7c7c'
+    searchingActiveBorderColor:
+      - '#ff6b6b'
+    optionsTextColor:
+      - '#c678dd'
+    selectedLineBgColor:
+      - '#523535'
+    cherryPickedCommitBgColor:
+      - '#9a7c7c'
+    cherryPickedCommitFgColor:
+      - '#c678dd'
+    markedBaseCommitFgColor:
+      - '#c678dd'
+    unstagedChangesColor:
+      - '#ff55aa'
+    defaultFgColor:
+      - '#e8d5d5'
