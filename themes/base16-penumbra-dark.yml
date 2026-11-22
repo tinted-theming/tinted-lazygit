@@ -1,7 +1,7 @@
 #
 #
 # name: Penumbra Dark
-# author: Zachary Weiss (https://github.com/zacharyweiss)
+# author: Neal McKee (https://github.com/nealmckee/penumbra)
 # slug: penumbra-dark
 # slug-underscored: penumbra_dark
 # system: base16
@@ -12,23 +12,23 @@
 gui:
   theme:
     activeBorderColor:
-      - '#5794d0'
+      - '#0081b4'
       - bold
     inactiveBorderColor:
-      - '#636363'
+      - '#5e6063'
     searchingActiveBorderColor:
-      - '#ba823a'
+      - '#b3763e'
     optionsTextColor:
-      - '#5794d0'
+      - '#0081b4'
     selectedLineBgColor:
-      - '#3e4044'
+      - '#484a4d'
     cherryPickedCommitBgColor:
-      - '#636363'
+      - '#5e6063'
     cherryPickedCommitFgColor:
-      - '#5794d0'
+      - '#0081b4'
     markedBaseCommitFgColor:
-      - '#5794d0'
+      - '#0081b4'
     unstagedChangesColor:
-      - '#ca736c'
+      - '#ba616a'
     defaultFgColor:
-      - '#bebebe'
+      - '#8b8b8b'

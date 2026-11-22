@@ -1,7 +1,7 @@
 #
 #
 # name: Penumbra Dark Contrast Plus Plus
-# author: Zachary Weiss (https://github.com/zacharyweiss)
+# author: Neal McKee (https://github.com/nealmckee/penumbra)
 # slug: penumbra-dark-contrast-plus-plus
 # slug-underscored: penumbra_dark_contrast_plus_plus
 # system: base16
@@ -12,23 +12,23 @@
 gui:
   theme:
     activeBorderColor:
-      - '#6eb2fd'
+      - '#009edb'
       - bold
     inactiveBorderColor:
-      - '#636363'
+      - '#575b62'
     searchingActiveBorderColor:
-      - '#e09f47'
+      - '#d88f4c'
     optionsTextColor:
-      - '#6eb2fd'
+      - '#009edb'
     selectedLineBgColor:
-      - '#3e4044'
+      - '#393c42'
     cherryPickedCommitBgColor:
-      - '#636363'
+      - '#575b62'
     cherryPickedCommitFgColor:
-      - '#6eb2fd'
+      - '#009edb'
     markedBaseCommitFgColor:
-      - '#6eb2fd'
+      - '#009edb'
     unstagedChangesColor:
-      - '#f58c81'
+      - '#e17782'
     defaultFgColor:
-      - '#dedede'
+      - '#a9a9a9'
