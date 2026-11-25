@@ -1,0 +1,34 @@
+#
+#
+# name: Lavense
+# author: Madeline Hashcube <hashcube.dev>
+# slug: lavense
+# slug-underscored: lavense
+# system: base16
+# variant: dark
+#
+#
+
+gui:
+  theme:
+    activeBorderColor:
+      - '#a3b7f3'
+      - bold
+    inactiveBorderColor:
+      - '#773764'
+    searchingActiveBorderColor:
+      - '#f3a286'
+    optionsTextColor:
+      - '#a3b7f3'
+    selectedLineBgColor:
+      - '#6a2b58'
+    cherryPickedCommitBgColor:
+      - '#773764'
+    cherryPickedCommitFgColor:
+      - '#a3b7f3'
+    markedBaseCommitFgColor:
+      - '#a3b7f3'
+    unstagedChangesColor:
+      - '#f49ab6'
+    defaultFgColor:
+      - '#bca3b2'
